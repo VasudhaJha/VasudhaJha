@@ -23,6 +23,7 @@ My journey has allowed me to combine my development expertise with a deep unders
 ## 📬 Let's Connect!
 
 🌐 Personal Website: [vasudhajha.com](https://www.vasudhajha.com/)
+
 💼 LinkedIn: [Vasudha Jha](https://www.linkedin.com/in/vasudha-jha/)
 
 Thank you for stopping by! Feel free to explore my repositories and connect with me. 😊
