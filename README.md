@@ -8,7 +8,7 @@ I began my career as a frontend and backend developer, gaining experience in bui
 
 My journey has allowed me to combine my development expertise with a deep understanding of cloud platforms, making me well-versed in end-to-end software delivery pipelines, infrastructure automation, and cloud-native development.
 
-## 🚀 What I'm Working On
+## 🚀 Fun Projects I'm Working On
 
 - [AWS Cloud Resume Challenge](https://github.com/VasudhaJha/aws-cloud-resume-challenge): Building a serverless resume website with Terraform-provisioned resources, CI/CD pipelines, and a focus on scalability and automation. Here's the [challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/), if you want to take it!
 - [Step-by-Step Ansible](https://github.com/VasudhaJha/step-by-step-ansible): A comprehensive series that simplifies Ansible concepts with hands-on tasks, progressing from beginner to advanced topics.
