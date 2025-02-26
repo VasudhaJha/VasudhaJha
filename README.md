@@ -17,19 +17,19 @@ Right now, I’m hands-on with AWS, Terraform, CI/CD pipelines, Docker and Ansib
 
 - DevOps & Cloud:
   - AWS (S3, IAM, EC2, Lambda, API Gateway, DynamoDB, CloudFront),
-  - Terraform (IaC),
-  - CI/CD (GitHub Actions),
-  - Kubernetes,
-  - Docker,
-  - Ansible,
+  - Terraform (IaC)
+  - CI/CD (GitHub Actions)
+  - Kubernetes
+  - Docker
+  - Ansible
   - Bash
 - Programming Languages:
-  - Python,
-  - JavaScript,
+  - Python
+  - JavaScript
   - Swift
 - Other Tools and frameworks:
   - Git
-  - Flask,
+  - Flask
   - FastAPI
 
 ## 📬 Let's Connect!
