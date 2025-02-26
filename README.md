@@ -4,21 +4,33 @@ Welcome to my GitHub profile! I'm a DevOps and Cloud Engineer passionate about b
 
 ## 🌟 About Me
 
-I began my career as a frontend and backend developer, gaining experience in building web and mobile applications. Over time, I transitioned into cloud and DevOps engineering, driven by my interest in optimizing workflows, and implementing scalable solutions that enhance efficiency.
+I love solving problems at the intersection of software development and cloud infrastructure. My journey started as a full-stack developer, building web and mobile applications, but I found myself drawn to automation, cloud scalability, and making deployments smoother. That led me to DevOps and Cloud Engineering, where I now focus on building reliable infrastructure, optimizing workflows, and automating deployments.
 
-My journey has allowed me to combine my development expertise with a deep understanding of cloud platforms, making me well-versed in end-to-end software delivery pipelines, infrastructure automation, and cloud-native development.
+Right now, I’m hands-on with AWS, Terraform, CI/CD pipelines, Docker and Ansible, working on projects that deepen my understanding of cloud automation and scalable infrastructure. I have found that the best way to learn is by building real things, debugging, and iterating along the way.
 
 ## 🚀 Fun Projects I'm Working On
 
 - [AWS Cloud Resume Challenge](https://github.com/VasudhaJha/aws-cloud-resume-challenge): Building a serverless resume website with Terraform-provisioned resources, CI/CD pipelines, and a focus on scalability and automation. Here's the [challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/), if you want to take it!
-- [Step-by-Step Ansible](https://github.com/VasudhaJha/step-by-step-ansible): A comprehensive series that simplifies Ansible concepts with hands-on tasks, progressing from beginner to advanced topics.
+- [Step-by-Step Ansible](https://github.com/VasudhaJha/step-by-step-ansible): Writing a structured hands-on guide to Ansible, from beginner to advanced concepts. Creating real-world automation tasks to improve infrastructure management.
 
 ## 🔧 Skills
 
-- Cloud Platforms: AWS, GCP
-- DevOps Tools: Docker, Terraform, Ansible (currently learning), GitHub Actions
-- Programming Languages: Python, Bash, JavaScript, Swift
-- Frameworks: Flask, FastAPI
+- DevOps & Cloud:
+  - AWS (S3, IAM, EC2, Lambda, API Gateway, DynamoDB, CloudFront),
+  - Terraform (IaC),
+  - CI/CD (GitHub Actions),
+  - Kubernetes,
+  - Docker,
+  - Ansible,
+  - Bash
+- Programming Languages:
+  - Python,
+  - JavaScript,
+  - Swift
+- Other Tools and frameworks:
+  - Git
+  - Flask,
+  - FastAPI
 
 ## 📬 Let's Connect!
 
