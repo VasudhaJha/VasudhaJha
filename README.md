@@ -34,7 +34,7 @@ Right now, I’m hands-on with AWS, Terraform, CI/CD pipelines, Docker and Ansib
 
 ## 📬 Let's Connect!
 
-🌐 Personal Website: [vasudhajha.com](https://www.vasudhajha.com/)
+🌐 Read what I have to say: [vasudhajha.hashnode.com](https://vasudhaj.hashnode.dev/?source=top_nav_blog_home)
 
 💼 LinkedIn: [Vasudha Jha](https://www.linkedin.com/in/vasudha-jha/)
 
