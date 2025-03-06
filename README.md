@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a DevOps and Cloud Engineer passionate about b
 
 ## 🌟 About Me
 
-I love solving problems at the intersection of software development and cloud infrastructure. My journey started as a full-stack developer, building web and mobile applications, but I found myself drawn to automation, cloud scalability, and making deployments smoother. That led me to DevOps and Cloud Engineering, where I now focus on building reliable infrastructure, optimizing workflows, and automating deployments.
+My journey started as a full-stack developer, building web and mobile applications, but I found myself drawn to automation, cloud scalability, and making deployments smoother. That led me to DevOps and Cloud Engineering, where I now focus on building reliable infrastructure, optimizing workflows, and automating deployments.
 
 Right now, I’m hands-on with AWS, Terraform, CI/CD pipelines, Docker and Ansible, working on projects that deepen my understanding of cloud automation and scalable infrastructure. I have found that the best way to learn is by building real things, debugging, and iterating along the way.
 
